@@ -1,2 +1,13 @@
-Hello therem 
-This is a small encryptor utilizing Caesor Cipher principle, this program can take
+Hello there, 
+This is a Java Based encryptor utilizing Caesor Cipher principle and is capable of performing encryption with multiple keys, 
+this program can take inputs from user and Encrypt it with multiple keys
+and has  a small gui interface too, you can simply download this file
+ and open in any editor, to make it run.
+ 1. Run the Encryption_with_Caser_Cipher.java file in any editor with jre.
+ 2. Select appropriate options.
+ 3. Copy paste the path of file to be opened.
+ 4. Enter the keys to encrypt the files with.
+ (Numeric keys are only supported)
+ 5. Check the output 
+ 
+ Thank You :)
